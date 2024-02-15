@@ -1,0 +1,19 @@
+.map {
+    width: 1000px;
+    height: 500px;
+    background-color: #333;
+}
+
+[class*="copyrights-pane"] {
+    display: none !important;
+}
+
+.s1 {
+    align-self: center;
+}
+
+#wrapper {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
